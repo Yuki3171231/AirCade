@@ -3,6 +3,10 @@ This is the official repository of our ICASSP 2025 paper. The proposed model, Ai
 
 <br>
 
+<img src='main.png' alt='Main figure of AirCade'>
+
+<br>
+
 ## 1. Introduction about the datasets
 ### 1.1 Generating num 1 and num 2 sub-datasets from Knowair
 In the experiments of our paper, we used num 1 and num 2 datasets with years from 2015 and 2017 respectively, which were followed by [Knowair](https://github.com/shuowang-ai/PM2.5-GNN). For example, you can download Knowair dataset from the provided [link](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) and please place the downloaded `Knowair.npy` file in the `AirCade_ICASSP` folder and complete the files in the `AirCade_ICASSP/data` folder.
